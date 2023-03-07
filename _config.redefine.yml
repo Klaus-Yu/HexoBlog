@@ -6,7 +6,7 @@ base_info:
   author: 迁亦 # Author name
   url: https://klausyu.me/ # Site url
   # Logo image (You can use local image, image external link or don’t fill)
-  logo_img: themes/hexo-theme-redefine/images/avatar.jpg # logo image on the left of the navigation bar
+  logo_img: /images/avatar.jpg # logo image on the left of the navigation bar
 
 # ---------------------------------------------------------------------------------------
 # Theme style settings
@@ -16,10 +16,10 @@ style:
   primary_color: "#005080"
 
   # Avatar (You can use local image or image external link)
-  avatar: themes/hexo-theme-redefine/images/greenfish.svg # avatar of the author
+  avatar: /images/greenfish.svg # avatar of the author
 
   # Favicon (You can use local image or image external link)
-  favicon: themes/hexo-theme-redefine/images/snowboarder-color-silhouette-low-poly.svg # favicon of the site
+  favicon: /images/snowboarder-color-silhouette-low-poly.svg # favicon of the site
 
   # Article image align position
   article_img_align: center # value: left | center
@@ -45,8 +45,8 @@ style:
   first_screen:
     enable: true
     background_image:
-      light: themes/hexo-theme-redefine/images/shexi.jpg # background image of the first screen, use relative path or external link (if your website is in subdirectory, use external link)
-      dark: themes/hexo-theme-redefine/images/shexi.jpg # background image of the first screen, use relative path or external link (if your website is in subdirectory, use external link)
+      light: /images/shexi.jpg # background image of the first screen, use relative path or external link (if your website is in subdirectory, use external link)
+      dark: /images/shexi.jpg # background image of the first screen, use relative path or external link (if your website is in subdirectory, use external link)
     title_color:
       light: "#FFFFFF" # first screen title color (light mode)
       dark: "#d1d1b6" # first screen title color (dark mode)
@@ -317,11 +317,11 @@ plugins:
     audio:
       - name: 常德童谣-马马嘟嘟骑 # audio name
         artist: Carol 珈乐 # audio artist
-        url: themes/hexo-theme-redefine/music/33.mp3 # audio url
+        url: /music/33.mp3 # audio url
         cover: None # audio cover url
       - name: 能不能和我留在台北
         artist: icyball 冰球乐团
-        url: themes/hexo-theme-redefine/music/icyball.mp3
+        url: /music/icyball.mp3
         cover: https://img1.doubanio.com/view/subject/m/public/s34380599.jpg
 
 # ---------------------------------------------------------------------------------------
