@@ -45,12 +45,12 @@ style:
   first_screen:
     enable: true
     background_image:
-      light: /images/shexi.jpg # background image of the first screen, use relative path or external link (if your website is in subdirectory, use external link)
-      dark: /images/shexi.jpg # background image of the first screen, use relative path or external link (if your website is in subdirectory, use external link)
+      light: /images/li.jpg # background image of the first screen, use relative path or external link (if your website is in subdirectory, use external link)
+      dark: /images/li.jpg # background image of the first screen, use relative path or external link (if your website is in subdirectory, use external link)
     title_color:
       light: "#FFFFFF" # first screen title color (light mode)
       dark: "#d1d1b6" # first screen title color (dark mode)
-    description: 做自己，靠自己 # the title in the middle of the first screen. HTML supported (e.g. svg html code of your logo)
+    description: # the title in the middle of the first screen. HTML supported (e.g. svg html code of your logo)
     custom_font: # custom font for the first screen
       enable: false
       font_family: # the font family name of the url below
