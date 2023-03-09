@@ -6,7 +6,7 @@ base_info:
   author: 迁亦 # Author name
   url: https://klausyu.me/ # Site url
   # Logo image (You can use local image, image external link or don’t fill)
-  logo_img: /images/avatar.jpg # logo image on the left of the navigation bar
+  logo_img: /images/avatar-removebg-preview.png # logo image on the left of the navigation bar
 
 # ---------------------------------------------------------------------------------------
 # Theme style settings
@@ -16,7 +16,7 @@ style:
   primary_color: "#005080"
 
   # Avatar (You can use local image or image external link)
-  avatar: /images/greenfish.svg # avatar of the author
+  avatar: /images/luo-avatar2.jpg # avatar of the author
 
   # Favicon (You can use local image or image external link)
   favicon: /images/snowboarder-color-silhouette-low-poly.svg # favicon of the site
