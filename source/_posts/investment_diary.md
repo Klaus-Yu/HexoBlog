@@ -1,7 +1,7 @@
 ---
 
 title: 第一次试投资实体
-date: 2023-3-9 14:25:14
+date: 2023-4-12 16:59:35
 tags: [生活]
 categories: [投资]
 thumbnail: https://strong.com.br/wp-content/uploads/2016/07/investment-strategies-chicago.jpg
