@@ -4,7 +4,7 @@ title: Sam Hunt的《Take your time》符合我大部分的爱情观
 date: 2023-6-16 17:00:32
 tags: [观后感]
 categories: [杂谈]
-thumbnail: https://upload.cc/i1/2023/06/16/752YMo.jpg
+thumbnail: https://postimg.cc/qg0sBwV0
 excerpt: “很棒！"
 
 ---
